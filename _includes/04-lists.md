@@ -1,7 +1,4 @@
--chocolates
-
--vinos
-
--gatos
-
--rock
+- chocolates
+- vinos
+- gatos
+- rock
